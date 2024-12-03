@@ -11,7 +11,7 @@ O projeto abrange desde a análise exploratória dos dados até a determinação
 - Instalação:
 
 Clone o repositório:
-git clone (https://github.com/VicBia/HumanActivityRecognition_KMeans.git)
+git clone https://github.com/VicBia/HumanActivityRecognition_KMeans.git
 
 - Importe as bibliotecas:
 

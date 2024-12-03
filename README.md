@@ -45,7 +45,7 @@ Determine o número ideal de clusters pelo Silhouette Score
 ## Estrutura dos Arquivos
 - train.csv : Conjunto de dados de treinamento das atividades humanas.
 - test.csv : Conjunto de dados de teste das atividades humanas.
-- main_script.py: Script contendo o código principal para análise.
+- implementação_e_análise_do_algoritmo_de_k_means_com_o_dataset_human_activity_recognition.py: Script contendo o código principal para análise.
 - README.md: Documentação do projeto.
 
 ## Tecnologias Utilizadas
